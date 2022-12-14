@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching
-description: Karl Broman's teaching
+description: Laura Alessandretti's teaching
 ---
 
 <div class="navbar">
@@ -18,10 +18,10 @@ description: Karl Broman's teaching
 
 #### [Computational Social Science (DTU 02467, Spring 2023)](https://kurser.dtu.dk/course/02467)
 
-- [schedule](https://kbroman.org/BMI881/schedule.html)
-- [syllabus](https://kbroman.org/BMI881/syllabus.html)
-- [assignments](https://kbroman.org/BMI881/assignments.html)
-- [resources](https://kbroman.org/BMI881/resources.html)
+- [schedule](schedule.html)
+- [syllabus](schedule.html)
+- [assignments](assignments.html)
+- [resources](resources.html)
 
 
 ### <a name="old"></a>Former courses at DTU
