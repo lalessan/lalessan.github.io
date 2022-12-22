@@ -1,3 +1,4 @@
 _site
 Gemfile.lock
 assets/favicon/*.ico
+retreive_publications.ipynb
