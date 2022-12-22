@@ -4,14 +4,6 @@ title: teaching
 description: Laura Alessandretti's teaching
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#current">current courses</a></li>
-            <li><a href="#old">former courses</a></li>
-        </ul>
-    </div>
-</div>
 
 
 ### <a name="current"></a>Current courses
