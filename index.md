@@ -41,6 +41,12 @@ she/her
 ---
 
 <div class="container">
+<h4><a name="research group"></a>research group</h4>
+
+* [Silvia De Sojo Caso (PhD Student)](https://orbit.dtu.dk/en/persons/silvia-de-sojo-caso)
+* [Federico Delussu (PhD Student)](https://orbit.dtu.dk/en/persons/federico-delussu)
+
+
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
