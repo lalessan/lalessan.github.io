@@ -38,15 +38,20 @@ In 2021 my research was awarded the the [Tietgen Award by the Danish Society for
 
 she/her
 
----
-
 <div class="container">
 <h4><a name="research group"></a>research group</h4>
+</div>
 
-* [Silvia De Sojo Caso (PhD Student)](https://orbit.dtu.dk/en/persons/silvia-de-sojo-caso)
-* [Federico Delussu (PhD Student)](https://orbit.dtu.dk/en/persons/federico-delussu)
+[Silvia De Sojo Caso (PhD Student)](https://orbit.dtu.dk/en/persons/silvia-de-sojo-caso)<br/>
+[Federico Delussu (PhD Student)](https://orbit.dtu.dk/en/persons/federico-delussu)<br/>   
 
 
+
+
+
+
+
+<div class="container">
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
