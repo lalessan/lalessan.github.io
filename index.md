@@ -28,6 +28,9 @@ I am also interested in topics of societal interest, including gender gaps in mo
 the impact of air quality on mobility and physical activity, navigation in urban multimodal transport systems, and the spread of epidemics.
 
 In 2021 my research was awarded the the [Tietgen Award by the Danish Society for Education and Business](https://dseb.dk/aktuelt/prestigefyldt-pris-gaar-til-forskning-i-digitale-laeringsmidler-og-danskernes).
+This year, I am general chair of the 2023 edition of the [International Conference in Computational Social Science](https://ic2s2.org/).
+
+
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Laura_cv.pdf)<br/>
 [orcid 0000-0001-6003-1165![orcid](icons16/orcid-icon.png)](https://orcid.org/0000-0001-6003-1165)<br/>
