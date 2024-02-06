@@ -8,13 +8,18 @@ description: Laura Alessandretti's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Computational Social Science (DTU 02467, Spring 2023)](https://kurser.dtu.dk/course/02467)
 
-- All material can be found on [the course page](https://laura.alessandretti.com/comsocsci2023)
+#### [Computational Social Science (DTU 02467, Spring 2024)](https://kurser.dtu.dk/course/02467)
+
+- All material can be found on [the course page](https://laura.alessandretti.com/comsocsci2024)
 
 
 
 ### <a name="old"></a>Former courses at DTU
+
+#### [Computational Social Science (DTU 02467, Spring 2023)](https://kurser.dtu.dk/course/02467)
+
+- All material can be found on [the course page](https://laura.alessandretti.com/comsocsci2023)
 
 
 #### [Computational Social Science (DTU 02467, Spring 2022)](https://kurser.dtu.dk/course/02467)
