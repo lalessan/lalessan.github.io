@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: about
-description: Laura Alessandretti is Assistant Professor in Modelling Human Dynamics at the Technical University of Denmark
+description: Laura Alessandretti is Associate Professor in Modelling Human Dynamics at the Technical University of Denmark
 ---
 
 I am Associate Professor in the
