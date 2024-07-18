@@ -4,7 +4,7 @@ title: about
 description: Laura Alessandretti is Assistant Professor in Modelling Human Dynamics at the Technical University of Denmark
 ---
 
-I am Assistant Professor in the
+I am Associate Professor in the
 [Section for Cognitive Systems at the Technical University of Denmark](https://www.compute.dtu.dk/english/research/research-sections/cogsys);
 and researcher in computational social science.
 
