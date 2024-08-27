@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: luna
 title: Luna
 description: Luna
 ---
