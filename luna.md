@@ -28,4 +28,4 @@ IBAN: IT88J0306930870100000064994
 
 
 
-![image info](pics/IMG_20240824_170405.jpg)
+![image info](./pics/IMG_20240824_170405.jpg)
