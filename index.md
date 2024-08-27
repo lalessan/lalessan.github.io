@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: about
-description: Laura Alessandretti is Assistant Professor in Modelling Human Dynamics at the Technical University of Denmark
+description: Laura Alessandretti is Associate Professor in Modelling Human Dynamics at the Technical University of Denmark
 ---
 
 I am Associate Professor in the
@@ -28,7 +28,7 @@ I am also interested in topics of societal interest, including gender gaps in mo
 the impact of air quality on mobility and physical activity, navigation in urban multimodal transport systems, and the spread of epidemics.
 
 In 2021 my research was awarded the the [Tietgen Award by the Danish Society for Education and Business](https://dseb.dk/aktuelt/prestigefyldt-pris-gaar-til-forskning-i-digitale-laeringsmidler-og-danskernes).
-This year, I am general chair of the 2023 edition of the [International Conference in Computational Social Science](https://ic2s2.org/).
+Last year, I was general chair of the 2023 edition of the [International Conference in Computational Social Science](https://ic2s2.org/).
 
 
 
