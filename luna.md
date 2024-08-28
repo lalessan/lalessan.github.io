@@ -30,14 +30,15 @@ Laura e Marco (e Luna!)
 
 Intestatario: Laura Alessandretti    
 IBAN: IT88J0306930870100000064994    
-WhatsApp: +45 50168709  (Apprezziamo molto una dedica/messaggio per Luna)  
+WhatsApp: +45 50168709  (Apprezziamo molto una dedica/messaggio per Luna)    
 
 ### Indirizzo (per evenutali spedizioni)
-Laura Alessandretti e Marco De Nadai 
-Yrsavej 15, 2 tv. 
-2000 Frederiksberg 
-Denmark
+Laura Alessandretti e Marco De Nadai    
+Yrsavej 15, 2 tv.    
+2000 Frederiksberg    
+Denmark    
 
 
 
 ![image info](./pics/IMG_20240824_170405.jpg)
+![image info](./pics/IMG_20240828_134910.jpg)
