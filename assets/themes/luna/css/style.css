@@ -1,65 +1,137 @@
+/* Apply the new font to the entire body */
+body {
+  font-family: 'Poppins', sans-serif; /* Use Poppins as the default font */
+  font-size: 16px; /* Base font size for readability */
+  line-height: 1.6; /* Improved line height for better readability */
+  background-color: #0b0c10; /* Dark background */
+  margin: 0;
+  padding: 0;
+  color: #e0e0e0; /* Light text color for contrast */
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  max-width: 700px; }
+  max-width: 700px;
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent dark background */
+  padding: 20px;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+}
+
+.navbar .nav li a {
+  font-family: 'Poppins', sans-serif;
+  color: #e0e0e0; /* Light color for navbar links */
+}
+
+.navbar .nav li a:hover {
+  color: #f0f0f0; /* Slightly lighter on hover */
+  background-color: #333; /* Dark background on hover */
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Poppins', sans-serif; /* Ensure headers use the new font */
+  color: #e0e0e0; /* Light headers */
+}
+
+code {
+  padding: 0;
+  font-size: 90%;
+  color: #e0e0e0; /* Light color for code */
+  background-color: #333; /* Dark background for code */
+  border: 1px solid #444; /* Subtle border for code block */
+  font-family: 'Poppins', sans-serif; /* Use Poppins for code */
+}
+
+a {
+  color: #1e90ff; /* Light blue link color */
+  font-family: 'Poppins', sans-serif; /* Use Poppins for links */
+}
+
+p.center {
+  text-align: center;
+  color: #e0e0e0; /* Light text */
+  font-family: 'Poppins', sans-serif; /* Use Poppins for centered text */
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px;
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent dark background */
+  color: #e0e0e0; /* Light text color for contrast */
+  padding: 20px;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+}
 
 .container-narrow > hr {
-  margin: 30px 0; }
+  margin: 30px 0;
+  border-top: 1px solid #444; /* Darker border for hr */
+}
+
+.navbar {
+  background-color: #1a1a1a; /* Dark navbar background */
+  border-bottom: 1px solid #333; /* Darker border */
+}
 
 .navbar .nav {
-  float: right; }
+  float: right;
+}
 
-/* posts index */
+.navbar .nav li a {
+  color: #e0e0e0; /* Light color for navbar links */
+}
+
+.navbar .nav li a:hover {
+  color: #f0f0f0; /* Slightly lighter on hover */
+  background-color: #333; /* Dark background on hover */
+}
+
+/* Post styles */
 .post > h3.title {
   position: relative;
-  padding-top: 10px; }
+  padding-top: 10px;
+  color: #ffffff; /* Light title color */
+}
 
 .post > h3.title span.date {
   position: absolute;
   right: 0;
-  font-size: 0.9em; }
+  font-size: 0.9em;
+  color: #aaaaaa; /* Light grey for date */
+}
 
 .post > .more {
   margin: 10px 0;
-  text-align: left; }
+  text-align: left;
+}
 
-/* post-full*/
-.post-full .date {
-  margin-bottom: 20px;
-  font-weight: bold; }
+/* Background for entire page */
+body {
+  background-image: url('/pics/night_sky.jpg'); /* Path to your moon/night sky background image */
+  background-size: cover;
+  background-attachment: fixed; /* Fixed background for scrolling effect */
+  color: #e0e0e0; /* Light text for contrast */
+}
+
+footer {
+  color: #aaaaaa; /* Footer text color */
+}
 
 /* tag_box */
-.tag_box {
-  list-style: none;
-  margin: 0;
-  overflow: hidden; }
-
-.tag_box li {
-  line-height: 28px; }
-
-.tag_box li i {
-  opacity: 0.9; }
-
-.tag_box.inline li {
-  float: left; }
-
 .tag_box a {
-  padding: 3px 6px;
-  margin: 2px;
-  background: #eee;
-  color: #555;
-  border-radius: 3px;
-  text-decoration: none;
-  border: 1px dashed #cccccc; }
-
-.tag_box a span {
-  vertical-align: super;
-  font-size: 0.8em; }
+  background: #2e2e2e; /* Dark background for tags */
+  color: #e0e0e0; /* Light text for tags */
+  border: 1px dashed #4a4a4a; /* Dark border */
+}
 
 .tag_box a:hover {
-  background-color: #e5e5e5; }
+  background-color: #444; /* Slightly lighter on hover */
+}
 
 .tag_box a.active {
-  background: #57A957;
-  border: 1px solid #4c964d;
-  color: #FFF; }
+  background: #004080; /* Dark blue for active tag */
+  border: 1px solid #003366; /* Matching border for active tag */
+  color: #FFF; /* White text */
+}
