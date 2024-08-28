@@ -26,9 +26,9 @@ Grazie ancora. Non vediamo l'ora di presentarvi Luna.
 Laura e Marco (e Luna!)
 
 
-### Coordinate 
+### Coordinate bancarie
 
-Laura Alessandretti    
+Intestatario: Laura Alessandretti    
 IBAN: IT88J0306930870100000064994    
 WhatsApp: +45 50168709  (Apprezziamo molto una dedica/messaggio per Luna)  
 
