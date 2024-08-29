@@ -32,6 +32,10 @@ Intestatario: Laura Alessandretti
 IBAN: IT88J0306930870100000064994    
 WhatsApp: +45 50168709  (Apprezziamo molto una dedica/messaggio per Luna)    
 
+Intestatario: Marco De Nadai    
+IBAN: IT44D0305801604100571903525
+WhatsApp: +45 50233007
+
 ### Indirizzo (per evenutali spedizioni)
 Laura Alessandretti e Marco De Nadai    
 Yrsavej 15, 2 tv.    
