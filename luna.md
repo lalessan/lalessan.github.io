@@ -27,14 +27,15 @@ Laura e Marco (e Luna!)
 
 
 ### Coordinate bancarie
+Usate uno di questi due conti bancari (a vostra scelta). Per favore inviateci un messaggio su WhatsApp cosi da ringraziarvi!
 
 Intestatario: Laura Alessandretti    
 IBAN: IT88J0306930870100000064994    
-WhatsApp: +45 50168709  (Apprezziamo molto una dedica/messaggio per Luna)    
 
 Intestatario: Marco De Nadai    
 IBAN: IT44D0305801604100571903525
-WhatsApp: +45 50233007
+
+WhatsApp: +45 50168709
 
 ### Indirizzo (per evenutali spedizioni)
 Laura Alessandretti e Marco De Nadai    
